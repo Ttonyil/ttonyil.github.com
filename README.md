@@ -1,6 +1,5 @@
 # ttonyil.github.com
 
-<!DOCTYPE html>
 <html lang="it">
 <head>
   <meta charset="UTF-8" />
@@ -997,5 +996,5 @@ setLang('it');
 </script>
 </body>
 </html>
-¶
+
 
